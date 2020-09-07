@@ -129,3 +129,13 @@ body {
   width: 0%;
   transition: width 0.1s linear;
 }
+
+@media (max-width: 800px) {
+  .audio-container {
+    margin: 20px;
+  }
+}
+@media (max-width: 700px) {
+}
+@media (max-width: 500px) {
+}
